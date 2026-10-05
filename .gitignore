@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Binaries — build the simulator with scripts/build.sh and download
+# MediaMTX into bin/ (see README)
+bin/
+
+# Aerial tile images (local data, not part of the repo)
+images/
+
+# Generated video recordings
+recordings/
+
+# MediaMTX binary — download it from https://github.com/bluenviron/mediamtx
+# (the config file config/mediamtx.yml IS tracked)
+mediamtx
